@@ -79,7 +79,7 @@ lsb-release
     ```
    Reactivate the profile either by substituting user with `su - ${USER}` or re-initate the profile by logging into the system.
 
-## Installing Docker-Compose
+## Installing Docker Compose
 
 Docker Compose is yet another useful Docker tool. It allows you to launch, execute, communicate, and close containers in a single coordinated command. Docker Compose is used for defining and running multi-container Docker applications.
 
