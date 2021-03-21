@@ -3,12 +3,6 @@ Quick Start Guide for Installing and Using ownCloud
 # Preface
 This quick start guide helps you to install, perform configuration and user management tasks for ownCloud server. This includes configuring ownCloud components, creating user accounts and enabling users to connect to ownCloud server.
 
-# Contents
-* [Overview](#overview)
-* [Installing OwnServer - Docker Image](#installing-ownCloud-server-using-the-docker-Image)
-* [Managing User Accounts](#managing-user-accounts-in-ownCloud-server)
-* [Accessing through Desktop Client ](#accessing-ownCloud-server-through-desktop-client)
-
 # Overview
 ownCloud is a one stop solution for all your content collaboration needs. It greatly helps you to share and synchronize data and work on it whenever and wherever required irrespective of your device and its operating system. It is more flexible and secure making it more reliable and safe.
 
