@@ -165,7 +165,7 @@ In the ownCloud server UI,
 
    The new user account is created and the details of the newly created user gets added to the Users table.
 
-1. Click the **Passwor**d field to edit the password of the newly created user.
+1. Click the **Password** field to edit the password of the newly created user.
       Note – You cannot edit the **Username**.
 # Accessing ownCloud Server through Desktop Client
    To connect to the ownCloud Server using a desktop client, you have to first download and install the ownCloud Desktop client packages.  
@@ -176,7 +176,7 @@ In the ownCloud server UI,
 1. Click **Save**.  
    The Desktop Application files are downloaded to your system.
    For Example, if you have selected Windows as your operating system,
-1. Double-click the **ownCloud-<latest_version>.<x32orx64>.msi** file to run the installer.  
+1. Double-click the **ownCloud-<latest_version>.x64.msi** file to run the installer.  
    The Welcome screen of the ownCloud Setup Wizard appears:
 1. Click **Next**
 1. In the Custom Setup screen, the default features and the location where the setup files are placed are displayed. Click **Browse**, to change the default location.
